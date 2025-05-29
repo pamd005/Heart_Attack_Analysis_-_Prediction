@@ -1,8 +1,4 @@
-Here is the updated `README.md` with a detailed **"How to Run"** section included:
 
----
-
-````markdown
 # Heart Attack Analysis & Prediction 🫀
 
 This project focuses on the analysis and prediction of heart attacks using machine learning techniques. It explores various medical and lifestyle features to identify patterns and risk factors, and builds predictive models that can help in early diagnosis.
